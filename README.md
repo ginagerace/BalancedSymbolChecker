@@ -1,2 +1,2 @@
 # StructFunctions
-CS 211: Program 2.  Creating different struct functions such as push and pop.
+CS 211: Program 2.  Uses a stack struct to see if input has a balanced number of parentheses, braces, and brackets.
